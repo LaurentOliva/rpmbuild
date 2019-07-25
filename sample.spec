@@ -144,5 +144,5 @@ test -L /opt/%{name} && rm -f /opt/%{name}
 %doc
 
 %changelog
-* Mon Jul 24 2019 Laurent Oliva <l.oliva@groupe-pomona.fr> - 18.3.9-1
+* Mon Jul 24 2019 Laurent Oliva <laurent.oliva@gmail.com> - 18.3.9-1
 - Building RPM from binaries
